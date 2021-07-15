@@ -5,7 +5,7 @@
 It consists of developing an e-commerce landing page that can store emails in the localStorage.
 
 To install project, run:
-'npm i'
+```npm i```
 
 To start the project, run:
-'npm start'
+```npm start```
