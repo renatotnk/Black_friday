@@ -1,4 +1,4 @@
-# Projeto Black Friday
+# Black Friday Project
 
 ## This project is part of the first Hiring Coders Challenge
 
