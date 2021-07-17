@@ -4,8 +4,11 @@
 
 It consists of developing an e-commerce landing page that can store emails in the localStorage.
 
-To install project, run:
+##To clone this repository, run:
+``` git clone https://github.com/renatotnk/Black_friday.git```
+
+##To install project, run:
 ```npm i```
 
-To start the project, run:
+##To start the project, run:
 ```npm start```
