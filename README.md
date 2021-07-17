@@ -12,3 +12,6 @@ It consists of developing an e-commerce landing page that can store emails in th
 
 ## To start the project, run:
 ```npm start```
+
+## To see the project running, please follow this link:
+[Deployed site](https://promo-friday-hc2.netlify.app/)
